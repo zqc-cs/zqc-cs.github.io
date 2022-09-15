@@ -31,6 +31,6 @@ jobs:
         with:
           node-version: '8.x'
       - name: Install dependency
-        run: npm install
+          run: npm install
       - name: build proj
-      - run: npm run build
+          run: npm run build

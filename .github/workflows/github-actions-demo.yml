@@ -1,6 +1,9 @@
 name: build
-on: push : 
-  branch : [ source ]
+
+on: 
+  push : 
+    branch : [ source ]
+
 jobs:
   EchoJob:
     runs-on: ubuntu-latest

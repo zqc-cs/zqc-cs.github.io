@@ -104,7 +104,7 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/zqc-cs/zqc-cs.github.io.git
-  branch: master
+  branch: main
 
 netlify_cms:
   config_file: netlify.yaml

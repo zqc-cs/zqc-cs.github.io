@@ -5,7 +5,9 @@ updated: 2022-09-16 22:51:50
 mathjax: true
 tags:
   - Test
-  - pdf;video:code
+  - pdf
+  - video
+  - code
 categories:
   - Test
 comments: true
@@ -29,3 +31,5 @@ ca
 
 adsfdf
 <embed id="pdfPlayer" src="source/images/1.pdf" type="application/pdf" width="100%" height="600" >
+asdasd
+<iframe src="source/images/1.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>

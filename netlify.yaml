@@ -2,6 +2,8 @@ backend:
   name: github
   repo: zqc-cs/zqc-cs.github.io
   branch: gh-pages
+  auth_scope: repo # this is needed to fork the private repo
+  open_authoring: true
 
 media_folder: source/images
 public_folder: /images

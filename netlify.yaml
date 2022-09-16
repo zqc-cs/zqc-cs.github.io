@@ -56,3 +56,4 @@ collections:
       - {label: "Body", name: "body", widget: "text", required: false}
       - {label: "Permalink", name: "permalink", widget: "string", required: false}
       - {label: "Comments", name: "comments", widget: "boolean", default: true, required: false}
+  

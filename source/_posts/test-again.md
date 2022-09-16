@@ -13,12 +13,10 @@ comments: true
 #﻿ Test math
 $﻿ x_i^2 $
 
-$﻿f﻿*i^2(u,v)  g*{i,j}^{2,3}(x,y)$
+$ ﻿f﻿*i^2(u,v)  g*{i,j}^{2,3}(x,y) $
 
 
-$﻿$
-f﻿*i^2(u,v)  g*{i,j}^{2,3}(x,y)
-$﻿$
+$﻿$ f﻿*i^2(u,v)  g*{i,j}^{2,3}(x,y) $﻿$
 
 #﻿ Test code
 `i﻿nt`﻿

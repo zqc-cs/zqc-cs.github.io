@@ -32,4 +32,7 @@ ca
 adsfdf
 <embed id="pdfPlayer" src="https://zqc-cs.github.io/images/1.pdf" type="application/pdf" width="100%" height="600" >
 asdasd
-<iframe src="images/1.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
+<iframe src="/images/1.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
+
+sd
+<iframe href="/images/1.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>

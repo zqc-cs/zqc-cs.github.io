@@ -14,8 +14,6 @@ comments: true
 ---
 <iframe src="//player.bilibili.com/player.html?aid=754115200&bvid=BV1kk4y1m7sT&cid=220773148&page=1" scrolling="no" border="0" height="500" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-Hkm
-
 <script src="https://gist.github.com/Theigrams/98f6323969aa763cd1e343540e5420b4.js"></script>
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="moPsych" data-slug-hash="KKgQxWb" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Snake Game">
@@ -38,3 +36,5 @@ Hkm
 
 # Test math
 $$f_{i,j}^{u,v} = g(u) + v$$
+$$ f_{i,j}^{u,v} = g(u) + v $$
+asdasd

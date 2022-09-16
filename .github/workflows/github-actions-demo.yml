@@ -17,7 +17,7 @@ jobs:
           node-version: '18.x'
       - name: Install dependency
         run: npm install
-      run: hexo clean
+      - run: hexo clean
       - name: build proj
         run: hexo g
       - name: Deploy

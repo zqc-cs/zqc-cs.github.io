@@ -6,9 +6,10 @@
 #   open_authoring: true
 backend:
   name: github
-  repo: https://github.com/zqc-cs/zqc-cs.github.io.git
+  repo: zqc-cs/zqc-cs.github.io
   branch: gh-pages
   site_domain: sensational-cocada-f5ac96.netlify.com
+  open_authoring: false
 
 
 media_folder: source/images

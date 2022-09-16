@@ -1,5 +1,6 @@
 backend:
   name: github
+  repo: zqc-cs/zqc-cs.github.io
   branch: gh-pages
 
 media_folder: source/images

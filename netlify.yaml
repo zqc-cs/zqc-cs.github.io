@@ -6,7 +6,7 @@
 #   open_authoring: true
 backend:
   name: github
-  repo: zqc-cs/zqc-cs.github.io.git
+  repo: https://github.com/zqc-cs/zqc-cs.github.io.git
   branch: gh-pages
   site_domain: sensational-cocada-f5ac96.netlify.com
 

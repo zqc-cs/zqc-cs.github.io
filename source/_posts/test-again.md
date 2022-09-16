@@ -10,17 +10,20 @@ categories:
 permalink: ""
 comments: true
 ---
-\#﻿ Test math
+#﻿ Test math
 $﻿ x_i^2 $
 
+$﻿f﻿*i^2(u,v)  g*{i,j}^{2,3}(x,y)$
+
+
 $﻿$
-f﻿*i^2(u,v) \times \dots g*{i,j}^{2,3}(x,y)
+f﻿*i^2(u,v)  g*{i,j}^{2,3}(x,y)
 $﻿$
 
-\#﻿ Test code
+#﻿ Test code
 `i﻿nt`﻿
 
-`﻿``python
+```python
 c﻿lass
 `﻿``
 

@@ -7,8 +7,9 @@ tags:
 categories:
   - test
 comments: true
+mathjax: true
 ---
-`﻿``
-w﻿d
-`﻿``
-$﻿x^2$
+`
+w
+`
+$x^2$

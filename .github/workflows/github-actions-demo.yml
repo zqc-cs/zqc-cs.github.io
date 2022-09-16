@@ -17,12 +17,15 @@ jobs:
           node-version: '18.x'
       - name: Install dependency
         run: npm install
-      - run: hexo clean
-      - name: build proj
-        run: hexo g
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: public/
-          publish_branch: main
+        # uses: peaceiris/actions-gh-pages@v3
+        # with:
+        #   personal_token: ${{ secrets.GITHUB_TOKEN }}
+        #   publish_dir: ./public
+        #   publish_branch: main
+        uses: theme-keep/hexo-deploy-github-pages-action@master # 使用专门部署 Hexo 到 GitHub pages 的 action
+        env:
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }} # secret 名
+          # PUBLISH_REPOSITORY: XPoet/keep-blog # 公共仓库，格式：GitHub 用户名/仓库名
+          BRANCH: main # 分支，填 gh-pages 就行
+          PUBLISH_DIR: ./public # 部署 public 目录下的文件

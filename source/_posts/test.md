@@ -37,6 +37,4 @@ Hkm
 ```
 
 # Test math
-$$
-f_{i,j}^{u,v} = g(u) + v
-$$
+$$f_{i,j}^{u,v} = g(u) + v$$

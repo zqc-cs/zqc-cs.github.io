@@ -23,3 +23,9 @@ Fbb
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+ca
+<iframe src="https://docs.google.com/gview?embedded=true&url=http://infolab.stanford.edu/pub/papers/google.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
+
+adsfdf
+<embed id="pdfPlayer" src="source/images/1.pdf" type="application/pdf" width="100%" height="600" >

@@ -106,19 +106,10 @@ deploy:
   repo: https://github.com/zqc-cs/zqc-cs.github.io.git
   branch: main
 
-# backend:
-#   name: github
-#   repo: https://github.com/zqc-cs/zqc-cs.github.io.git
-#   branch: gh-pages
-#   auth_scope: repo # this is needed to fork the private repo
-#   open_authoring: true
-
 backend:
   name: github
-  repo: zqc-cs/zqc-cs.github.io
+  repo: https://github.com/zqc-cs/zqc-cs.github.io.git
   branch: gh-pages
-  base_url: 'https://zqc.github.io'
-  auth_endpoint: api/auth
   auth_scope: repo # this is needed to fork the private repo
   open_authoring: true
 

@@ -7,7 +7,7 @@
 backend:
   name: github
   repo: zqc-cs/zqc-cs.github.io
-  branch: gh-pages
+  branch: source
   site_domain: sensational-cocada-f5ac96.netlify.com
   auth_scope: repo
   open_authoring: false
